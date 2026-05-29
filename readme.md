@@ -186,10 +186,3 @@ beautifulsoup4==4.12.3
 
 Os links gerados já incluem o ID de afiliado configurado no `.env`.  
 Cadastre-se em [mercadolivre.com.br/afiliados](https://www.mercadolivre.com.br/afiliados) pra monetizar os cliques.
-
----
-
-## ⚠️ Aviso
-
-Nunca suba o arquivo `.env` pro GitHub — ele contém seus tokens.  
-O `.gitignore` já está configurado pra bloquear isso.
