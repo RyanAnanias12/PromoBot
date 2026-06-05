@@ -175,7 +175,7 @@ beautifulsoup4==4.12.3
 
 ## 📊 Próximas features (Fase 1)
 
-- [ ] Painel web para cadastrar e agendar posts
+- [✅] Painel web para cadastrar e agendar posts
 - [ ] Agendador automático — posta nos horários de pico (12h, 18h, 21h)
 - [ ] Rastreamento de cliques por post
 - [ ] Estatísticas: top posts, cliques totais, média por post
