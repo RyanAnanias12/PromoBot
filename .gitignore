@@ -1,2 +1,8 @@
-/.venv
-/.env
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+historico.json
+ml_token.json
+agenda.txt
